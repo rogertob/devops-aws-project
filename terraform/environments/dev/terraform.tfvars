@@ -1,3 +1,4 @@
+# Any .tfvars should always be kept private 
 project_name = "devops-aws-project"
 environment  = "dev"
 aws_region   = "us-east-1"
